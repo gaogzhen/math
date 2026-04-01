@@ -1,0 +1,5 @@
+# Lines that start with '#' are comments.
+.idea
+*.iml
+.DS_Store
+.vscode
